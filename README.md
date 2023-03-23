@@ -1,5 +1,2 @@
-WPU RESOLUSI
-- Saya ingin jadi berkat buat oranglain
-- Membantu orang yang ksusahaan
-- alllalaa
-- pergi-pergi
+WPU-RESOLUSI
+Repository untuk menyimpan WPU kedepannya
