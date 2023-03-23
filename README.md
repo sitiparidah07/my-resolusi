@@ -1,2 +1,3 @@
-# my-resolusi
-Repository untuk menyimpan rancana kedepannya
+WPU RESOLUSI
+- Saya ingin jadi berkat buat oranglain
+- Membantu orang yang ksusahaan
