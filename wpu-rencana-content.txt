@@ -1,0 +1,8 @@
+RENCANA KONTEN WPU
+
+- Javascript
+  * ES6
+  * Framwork Javascript
+- Struktur Frameworks
+- Interview
+- Vlogs 
